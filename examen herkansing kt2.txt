@@ -1,0 +1,14 @@
+w1
+minimaal 9 punten, alles minimaal 1 punt en op 2 2 punten behalen voor 9 totaal.
+3 cruciaal criterium: 
+	hoeveelheid functionaliteiten gerealiseerd.
+	hoeveelheid gerealiseerde functionaliteiten voldoen aan eisen uit ontwerp.
+	code voldoet aan naming conventions, werkt efficient, 
+	word overal zinvol van functies/methoden gebruikt gemaakt,
+	code is logish, strucureel en consistent opgebouwd.
+
+w2
+minimaal 5 puntent, alles minimaal 1 en op 2 minimaal 2 
+puntent voor het behalen van 9 totaal.
+1 cruciaal criterium:
+	testscenarios uitvoeren en resultaten duidelijk beschrijven.
