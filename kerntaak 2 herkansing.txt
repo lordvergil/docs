@@ -1,0 +1,19 @@
+Functionaliteiten.
+
+
+CRUD !
+Menu structuur. !
+database structuur. !
+speler gegevens beheer.
+aanmeldingen handmatig beheer.
+aanmeldingen sluiten.
+
+
+spelers, schoolen, Toernooien, aanmeldingen, uitslagen wedstrijd, wedstrijden, velden. 
+
+basisgegevens, aanmelden, wedstrijden in menu
+
+Sub menu:
+toernooi overzicht. Uitslag laten zien. indeling volgende ronde.
+aanmelden: handmatig of import xml, aanmeldingen sluiten.
+basisgegevens, crud voor speler, crud voor scholen, crud voor toernooien.
